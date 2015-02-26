@@ -1,0 +1,8 @@
+_main: CODE, 32022 0 12
+_Setup: CODE, 32052 0 40
+_ProcessCANTransmits: CODE, 32092 0 90
+__initialization: CODE, 32034 0 12
+_CAN_Setup: CODE, 32496 0 272
+_CAN_Receive: CODE, 32182 0 152
+_ProcessCAN: CODE, 32334 0 162
+Total: 740
